@@ -11,3 +11,5 @@ Se debe repartirnos el trabajo para avanzar.
 Se espera que mañana 11 de junio comparta el repositorio en git
 
 Estoy probando las ramas o los branches en git: esto sirve para evitar dañar el código master al hacer experimentos o desarrollo de ideas diferentes
+
+Probando modificaciones otra vez ya con las llaves
